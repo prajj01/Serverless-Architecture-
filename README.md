@@ -11,7 +11,7 @@ All AWS resources were terminated after project completion to avoid charges (pay
 This project demonstrates a serverless architecture on AWS, where a web application is deployed without managing servers.
 The setup focuses on scalability, low maintenance, and cost efficiency using managed AWS services.
 
-# Steps
+### Steps
 1. Create DynamoDB Table
    Create a DynamoDB table
    This will store application data
