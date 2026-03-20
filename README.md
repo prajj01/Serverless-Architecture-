@@ -1,5 +1,8 @@
 # AWS Serverless Architecture
 
+This project demonstrates a serverless architecture on AWS, where a web application is deployed without managing servers.
+The setup focuses on scalability, low maintenance, and cost efficiency using managed AWS services.
+
 - Create a DynamoDB table to store the items. 
 - Build a Lambda function to handle the CRUD operations on the DynamoDB table. 
 - Use S3 to store and host the web application's static files (HTML, CSS, and JavaScript). 
